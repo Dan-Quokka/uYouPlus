@@ -30,23 +30,11 @@
 
 ## Table of contents
 
-* [Download](#download)
-* [Installation](#installation)
+* [Building](#building)
 * [Features](#features)
 * [Credits](#credits)
 * [Support the developers!](#support-the-developers)
 * [FAQs](#faqs)
-* [Building](#building)
-
-## Download
-
-- The latest version of **uYouPlus** can be found under [Releases](https://github.com/qnblackcat/uYouPlus/releases/latest).
-- **Compatibility:** Requires iOS/iPadOS 14.0 or later.
-- For AltStore user: 
-
-  - My official AltStore repo: https://qnblackcat.github.io/AltStore/
-
-  - [Open in AltStore (v19.08.2-3.0.3)](http://tinyurl.com/4vzwk5hx) - It will take a while to install because AltStore needs to download the IPA first.
 
 <details>
   <summary>Version information (last updated: Jun 27, 2024)</summary>
